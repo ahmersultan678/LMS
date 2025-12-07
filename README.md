@@ -44,8 +44,3 @@ The system allows teachers to create courses, upload materials, and track studen
 
 ---
 
-## ⚙ Installation & Setup
-
-1. **Clone the Repository**  
-```bash
-git clone https://github.com/YourUsername/LMS.git
